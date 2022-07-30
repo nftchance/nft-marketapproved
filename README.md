@@ -1,3 +1,5 @@
+> **OUTDATED WITH THE RELEASE OF SEAPORT**
+
 # Basic Market Friendly ERC721 Smart Contract
 
 This project demonstrates the utilization of the OpenSea Proxy Registry to avoid the needed approvals. Removing approval fees on OpenSea allows every user to be pre-approved with their OpenSea account.
